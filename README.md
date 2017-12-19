@@ -2,9 +2,9 @@
 *Status: Incomplete*
 
 **Didi's To-Dos**
-- Create slide deck to introduce ML and Spotfire, a BI software
+*- Create slide deck to introduce ML and Spotfire, a BI software
 - Stress importance of understanding univariate, bivariate, data transformation, data cleaning and dimensionality reduction
-- Annotate each pages on Dashboard for ease of use
+- Annotate each pages on Dashboard for ease of use*
 
 ## Introduction
 No single data analytics is the same! Here I will provide a general guideline to help you navigate multivariate analysis. Spotfire is the next generation business intelligence tool which is free for educational and non-profit use!
